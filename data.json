@@ -1,0 +1,1 @@
+{"mode": {"truc": {"obdh": "test", "thermal": "test"}, "safe": {"thermal": "safe"}}, "sous-sys": {"thermal": {"test": 25, "safe": 2, "truc": 7}, "obdh": {"truc": 9}, "aocs": {"test": 2, "safe": 5, "truc": 7, "normal": 50}, "gravi": {"test": 2, "safe": 2, "truc": 7, "normal": 50}}}
